@@ -5,7 +5,7 @@
 <h1 align="center"> Branson Crawford </h1>
 
 <p align="center">
-  <em>Backend amamteur ⚙️ C Rust Python</em><br>
+  <em>Backend amateur ⚙️ C Rust Python</em><br>
   Crafting databases, understanding network jargin, and using my brain for fascinating problems 🧠<br>
   <strong>"I am loosing my grades" </strong>
 </p>
