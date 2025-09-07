@@ -27,9 +27,9 @@ Networks • Database Design • Low-level Systems • Number Theory • Compute
 
 ### What do I have to offer?
   
-  <br>• Analytic thinking </br>
-  <br>• Critical thinking </br>
-  <br>• Problem solving </br>
+  <br>• Big Thinker </br>
+  <br>• Bigger Communicator</br>
+  <br>• Problem solving (Coffee required) </br>
   <br>• Teamwork... </br>
 
 ---
