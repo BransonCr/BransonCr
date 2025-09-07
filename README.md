@@ -48,17 +48,17 @@ Networks • Database Design • Low-level Systems • Number Theory • Compute
 
 ### Fun Facts
 
-- I am funny  
-- I break things, fix them, and call it innovation.  
-- I need money  
-- Goal: Cyberdefender. Open source builder. Terminal sorcerer.
+- It works on my machine
+- I fix the broken things in broken fashion for the correct result (-1x-1=1).  
+- I need Knowledge  
+- Goal: Database Systems Designer, Network Administrator Wizard.
 
 
 ### Connect with Me
 
 <p align="center">
-  <a href="mailto:gdacostapereira66@gmail.com"><img src="https://img.shields.io/badge/-Email-000?&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Gustavo-DCosta"><img src="https://img.shields.io/badge/-Portfolio-000?&logo=githubpages&logoColor=white" /></a>
+  <a href="mailto:bransonancrawford@gmail.com"><img src="https://img.shields.io/badge/-Email-000?&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/BransonCr"><img src="https://img.shields.io/badge/-Portfolio-000?&logo=githubpages&logoColor=white" /></a>
 </p>
 
 ---
