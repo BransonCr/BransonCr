@@ -6,8 +6,8 @@
 
 <p align="center">
   <em>Backend amamteur ⚙️ C Rust Python</em><br>
-  Crafting secure tools, reverse engineering reality, and building open-source with a personal twist 🧠<br>
-  <strong>"I am loosing my mind" </strong>
+  Crafting databases, understanding network jargin, and using my brain for fascinating problems 🧠<br>
+  <strong>"I am loosing my grades" </strong>
 </p>
 
 ---
