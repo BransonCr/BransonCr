@@ -37,12 +37,9 @@ Networks • Database Design • Low-level Systems • Number Theory • Compute
 ### Tech Stack
 
 <p align="center">
-  <img src="assets/go.svg" height="40" alt="Go" />
   <img src="assets/c.svg" height="40" alt="C" />
   <img src="assets/cpp.svg" height="40" alt="C++" />
-  <img src="assets/zig.svg" height="40" alt="Zig" />
   <img src="assets/postgreSQL.svg" height="40" alt="PostgreSQL" />
-  <img src="assets/linux.svg" height="40" alt="Linux" />
   <img src="assets/windows.svg" height="40" alt="Windows" />
 </p>
 
