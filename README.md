@@ -2,7 +2,7 @@
   <img src="assets/icon.png" width="250" style="max-width: 100%; height: auto; border-radius: 10px;" alt="Mr High Noon">
 </p>
 
-<h1 align="center"> Gustavo D. Costa </h1>
+<h1 align="center"> Branson Crawford </h1>
 
 <p align="center">
   <em>Backend amamteur ⚙️ C Rust Python</em><br>
