@@ -6,7 +6,7 @@
 
 <p align="center">
   <em>Backend amateur ⚙️ C Rust Python</em><br>
-  Crafting databases, understanding network jargin, and using my brain for fascinating problems 🧠<br>
+  Crafting databases, understanding network jargin, and using my brain for fascinating problems <br>
   <strong>"I am loosing my grades" </strong>
 </p>
 
