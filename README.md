@@ -28,8 +28,5 @@ I am a Computer Science student at UBC with a 4.00 GPA and Dean's Scholar status
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BransonCr&layout=compact&theme=dark&hide_border=true)
 
-## GitHub Stats
 
-![Branson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BransonCr&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BransonCr&theme=dark&hide_border=true)
