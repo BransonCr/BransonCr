@@ -1,64 +1,35 @@
-<p align="center">
-  <img src="assets/icon.png" width="250" style="max-width: 100%; height: auto; border-radius: 10px;" alt="Mr High Noon">
-</p>
+# Hey, I'm Branson 
 
-<h1 align="center"> Branson Crawford </h1>
+*"The best way to predict the future is to build it."*
 
-<p align="center">
-  <em>Backend amateur ⚙️ C C++ Java Python</em><br>
-  Crafting databases, understanding network jargin, and using my brain for fascinating problems <br>
-  <strong>"I am loosing my grades" </strong>
-</p>
+<div align="center">
+  <img src="https://github.com/BransonCr.png" width="300"/>
+</div>
 
----
+## Computer Science Student
 
-### 🧠 Projects I'm Working on
+I am a Computer Science student at UBC with a 4.00 GPA and Dean's Scholar status, passionate about systems programming, full-stack development, and computer vision. You can get in touch from the following sources:
 
-- **GUI To-Do application**: A todo app to learn some Rust.  
-- 🛡**Mail Server**: . A custom mail server.
-- **Database Management Store**: A store where I will sell fake online degrees to give hope to the hopeless.
-
----
-
-### Currently Learning
-Networks • Database Design • Low-level Systems • Number Theory • Computer Image Applications 
-
----
-
-### What do I have to offer?
+<div align="center">
   
-  <br>• Big Thinker </br>
-  <br>• Bigger Communicator</br>
-  <br>• Problem solving (Coffee required) </br>
-  <br>• Teamwork... </br>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bransonancrawford@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/branson-crawford-43651b333/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BransonCr)
+
+**[My Resume](https://github.com/BransonCr/BransonCr/blob/main/resume.pdf)**
+
+![Profile Views](https://komarev.com/ghpvc/?username=BransonCr&color=blueviolet&style=flat-square)
+
+</div>
 
 ---
 
-### Tech Stack
+## Top Languages
 
-<p align="center">
-  <img src="assets/c.svg" height="40" alt="C" />
-  <img src="assets/cpp.svg" height="40" alt="C++" />
-  <img src="assets/postgreSQL.svg" height="40" alt="PostgreSQL" />
-  <img src="assets/windows.svg" height="40" alt="Windows" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BransonCr&layout=compact&theme=dark&hide_border=true)
 
+## GitHub Stats
 
----
+![Branson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BransonCr&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-### Fun Facts
-
-- It works on my machine
-- I fix the broken things in broken fashion for the correct result (-1x-1=1).  
-- I need Knowledge  
-- Goal: Database Systems Designer, Network Administrator Wizard.
-
-
-### Connect with Me
-
-<p align="center">
-  <a href="mailto:bransonancrawford@gmail.com"><img src="https://img.shields.io/badge/-Email-000?&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/BransonCr"><img src="https://img.shields.io/badge/-Portfolio-000?&logo=githubpages&logoColor=white" /></a>
-</p>
-
----
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BransonCr&theme=dark&hide_border=true)
