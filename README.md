@@ -16,8 +16,6 @@ I am a Computer Science student at UBC with a 4.00 GPA and Dean's Scholar status
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/branson-crawford-43651b333/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BransonCr)
 
-**[My Resume](https://github.com/BransonCr/BransonCr/blob/main/assets/Resume_2.pdf)**
-
 ![Profile Views](https://komarev.com/ghpvc/?username=BransonCr&color=blueviolet&style=flat-square)
 
 </div>
