@@ -8,7 +8,7 @@
 
 ## Computer Science Student
 
-I am a Computer Science student at UBC with a 4.00 GPA and Dean's Scholar status, passionate about systems programming, full-stack development, and computer vision. You can get in touch from the following sources:
+I am a Computer Science student at UBC, passionate about systems programming, full-stack development, and networking. You can get in touch from the following sources:
 
 <div align="center">
   
@@ -20,11 +20,6 @@ I am a Computer Science student at UBC with a 4.00 GPA and Dean's Scholar status
 
 </div>
 
----
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BransonCr&layout=compact&theme=dark&hide_border=true)
 
 
 
